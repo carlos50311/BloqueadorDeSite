@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "preority": 1,
+        "action": {"type": "block"},
+        "condition": {
+            "urlFilter":"||xvideos.com^",
+            "resourceTypes":["main_frame"]
+
+        }
+    }
+]
